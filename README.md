@@ -6,8 +6,8 @@
 </div>
 <div align="center">
   <a href="https://github.com/Brwnb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brwnb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brwnb&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brwnb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brwnb&layout=compact&langs_count=7&theme=dark" />
 </div>
  
  ### Tools and linguagues I know
@@ -31,6 +31,7 @@
    <img align="center" alt="Bruno-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
    <img align="center" alt="Bruno-Fedora" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
    <img align="center" alt="Bruno-OpenSuSE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
+   <img align="center" alt="Bruno-Fedora" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
           
 </div>
    

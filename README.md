@@ -11,16 +11,24 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brwnb&theme=github_dark" />
 </div>
  
- ### Tools and linguagues I know
+ ### Tools I know
 <div style="display: inline_block"><br/>
   <img align="center" alt="Bruno-Linux" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Bruno-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Bruno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  
+  
   <img align="center" alt="Bruno-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Bruno-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Bruno-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> 
-  <img align="center" alt="Bruno-Git" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
           
+</div> 
+
+##
+###  Linguagues that I like
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Bruno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Bruno-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Bruno-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div> 
 
 ##
@@ -33,6 +41,7 @@
    <img align="center" alt="Bruno-Fedora" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
    <img align="center" alt="Bruno-OpenSuSE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
    <img align="center" alt="Bruno-Fedora" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+   <img align="center" alt="Bruno-RedHat" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
           
 </div>
    
